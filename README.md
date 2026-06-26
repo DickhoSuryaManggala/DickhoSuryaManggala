@@ -14,7 +14,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hi! My name isDickho Surya Manggala</h1>
+<h1 data-importer="text" align="center">Hi! My name is Dickho Surya Manggala</h1>
 
 ###
 
@@ -27,9 +27,9 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DickhoSuryaManggala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DickhoSuryaManggala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=DickhoSuryaManggala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DickhoSuryaManggala&layout=compact&langs_count=5&theme=dark&locale=en&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -71,10 +71,8 @@
 
 <br clear="both">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DickhoSuryaManggala&repo=github-readme-stats&theme=dark" alt="pinned repo" />
+</div>
 
 ###
