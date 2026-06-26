@@ -6,9 +6,9 @@
   <img src="https://media.giphy.com/media/3o7aD4rFYF1x5zXI9a/giphy.gif" alt="Pacman animation" width="640" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/DickhoSuryaManggala" alt="GitHub Contribution Chart" width="100%" />
-</p>
+![pacman contribution graph](https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/pacman-output/pacman-contribution-graph.svg?game=pacman)
+
+###
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
