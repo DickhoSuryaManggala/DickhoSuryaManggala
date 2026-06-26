@@ -1,69 +1,80 @@
-# Hai, saya Dickho Surya Manggala
+<br clear="both">
 
-**Developer & Creator digital** dengan fokus pada pembuatan antarmuka keren, fungsional, dan terinspirasi dari tema modern.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4rFYF1x5zXI9a/giphy.gif" alt="Pacman animation" width="640" />
-</p>
-
-![pacman contribution graph](https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/pacman-output/pacman-contribution-graph.svg?game=pacman)
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
 
 ###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
+<br clear="both">
 
-## Tentang Saya
+<div data-importer="image" align="center">
+  <img data-importer="image" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp6d2RhdndvNjNnd2h4NHN6enEzcTNocjc2ZTZ5NDV1ZW01endrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif"  />
+</div>
 
-- Keahlian: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `PHP`, `Python`
-- Gaya desain UI/UX modern dan fun
-- Aktif membangun proyek kreatif dengan sentuhan interaktif
-- Hubungi saya: [dickhomanggala032@gmail.com](mailto:dickhomanggala032@gmail.com)
+###
 
-## Pengalaman & Penempatan
+<h1 data-importer="text" align="center">Hi! My name isDickho Surya Manggala</h1>
 
-- Frontend dan antarmuka menggunakan `React` dan `TypeScript`
-- Backend, API, dan integrasi data menggunakan `PHP` dan `Python`
-- Desain UI/UX responsif dan pengalaman pengguna premium
-- Analisis data serta otomatisasi dengan `Python`
+###
 
-## Proyek Utama
+<br clear="both">
 
-| Project | Deskripsi |
-| --- | --- |
-| `dailyjurnal` | Jurnal harian dengan antarmuka bersih dan rapi |
-| `dailybtc` | Dashboard harga Bitcoin dengan visual data menarik |
-| `updatejurnaldickho` | Versi baru fitur jurnal pribadi |
-| `Data_Mining_pertemuan_3` | Notebook data mining untuk analisis dan visualisasi |
-| `admin-ui` | Dashboard admin modern dengan desain profesional |
-| `Simple-lms` | Platform pembelajaran online sederhana |
-| `psd-mik` | Desain UI/UX berbasis layout PSD |
+<h5 data-importer="text" align="center">Saya adalah Web Developer yang memiliki ketertarikan dalam membangun aplikasi web modern, responsif, dan berorientasi pada pengalaman pengguna. Saya menggabungkan logika pemrograman dengan desain antarmuka yang bersih untuk menciptakan solusi digital yang efisien, fungsional, dan mudah digunakan. Saya senang mempelajari teknologi baru, mengembangkan proyek yang berdampak, serta terus meningkatkan kemampuan di bidang pengembangan web, UI/UX, dan teknologi terkini.</h5>
 
-## Skill & Teknologi
+###
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/UI--UX-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/Responsive-0B5FFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive Design" />
-  <img src="https://img.shields.io/badge/Data%20Mining-FFB000?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Mining" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-</p>
+<br clear="both">
 
-## Ayo Kolaborasi
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DickhoSuryaManggala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Jika kamu ingin membuat website, portofolio, atau desain UI/UX dengan gaya modern dan fun, saya siap membantu.
+###
 
-> `README.md` ini cocok untuk membuat profil GitHub Anda lebih hidup dan menarik.
+<h1 data-importer="text" align="left"></h1>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+</picture>
+
+###
