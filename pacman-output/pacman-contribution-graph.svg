@@ -1,0 +1,36 @@
+<svg width="960" height="200" viewBox="0 0 960 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .grid { fill: none; stroke: #444c56; stroke-width: 1; }
+      .dot { fill: #39ff14; }
+      .path { fill: none; stroke: #f8f8f2; stroke-width: 4; stroke-linecap: round; }
+      .ghost { fill: #ff79c6; }
+      .pacman { fill: #ffb86c; }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="960" height="200" />
+  <g class="grid">
+    <path d="M0 70 H960" />
+    <path d="M0 130 H960" />
+    <path d="M80 0 V200" />
+    <path d="M240 0 V200" />
+    <path d="M400 0 V200" />
+    <path d="M560 0 V200" />
+    <path d="M720 0 V200" />
+    <path d="M880 0 V200" />
+  </g>
+  <path class="path" d="M30 90 Q120 60 190 90 T350 90 T520 110 T610 90 T710 110 T830 90" />
+  <circle class="dot" cx="120" cy="60" r="8" />
+  <circle class="dot" cx="190" cy="90" r="8" />
+  <circle class="dot" cx="350" cy="90" r="8" />
+  <circle class="dot" cx="520" cy="110" r="8" />
+  <circle class="dot" cx="610" cy="90" r="8" />
+  <circle class="dot" cx="710" cy="110" r="8" />
+  <circle class="dot" cx="830" cy="90" r="8" />
+  <g class="ghost">
+    <ellipse cx="600" cy="60" rx="24" ry="24" />
+    <path d="M576 60 Q600 20 624 60 V85 L624 90 Q610 100 600 90 Q590 100 576 90 V85 Z" fill="#ff79c6" />
+  </g>
+  <path class="pacman" d="M200 100 A20 20 0 1 1 220 80 L215 90 A10 10 0 1 0 205 90 Z" />
+</svg>
