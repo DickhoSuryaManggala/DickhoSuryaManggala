@@ -1,6 +1,10 @@
-# 👋 Hai, saya Dickho Surya Manggala
+# Hai, saya Dickho Surya Manggala
 
-**Developer & Creator digital** dengan fokus pada pembuatan antarmuka keren, fungsional, dan terinspirasi dari tema game.
+**Developer & Creator digital** dengan fokus pada pembuatan antarmuka keren, fungsional, dan terinspirasi dari tema modern.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4rFYF1x5zXI9a/giphy.gif" alt="Pacman animation" width="640" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -10,43 +14,31 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-## 🎮 Desain Game-style & Skill
-
-> Portofolio ini dirancang agar terasa modern, interaktif, dan punya nuansa game arcade.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Snake-Game-8CC14C?style=for-the-badge&logo=gamepad&logoColor=white" alt="Snake Game" />
-  <img src="https://img.shields.io/badge/Pacman-Arcade-FFD700?style=for-the-badge&logo=gamepad&logoColor=black" alt="Pacman" />
-  <img src="https://img.shields.io/badge/Retro-Arcade-000000?style=for-the-badge&logo=nintendo&logoColor=white" alt="Retro" />
-</p>
-
-✨ Saya menggunakan ikon yang menarik dan warna cerah agar profil terasa hidup.
-
 ## Tentang Saya
 
-- 🌱 Keahlian: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `PHP`, `Python`
-- 🎮 Punya gaya desain UI/UX yang modern dan fun
-- 🚀 Aktif membangun proyek kreatif dengan sentuhan interaktif
-- 📬 Hubungi saya: [dickhomanggala032@gmail.com](mailto:dickhomanggala032@gmail.com)
+- Keahlian: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `PHP`, `Python`
+- Gaya desain UI/UX modern dan fun
+- Aktif membangun proyek kreatif dengan sentuhan interaktif
+- Hubungi saya: [dickhomanggala032@gmail.com](mailto:dickhomanggala032@gmail.com)
 
 ## Pengalaman & Penempatan
 
-- 🧑‍💻 Frontend dan antarmuka menggunakan `React` dan `TypeScript`
-- ⚙️ Backend, API, dan integrasi data menggunakan `PHP` dan `Python`
-- 🎨 Desain UI/UX responsif dan pengalaman pengguna premium
-- 🧠 Analisis data serta otomatisasi dengan `Python`
+- Frontend dan antarmuka menggunakan `React` dan `TypeScript`
+- Backend, API, dan integrasi data menggunakan `PHP` dan `Python`
+- Desain UI/UX responsif dan pengalaman pengguna premium
+- Analisis data serta otomatisasi dengan `Python`
 
 ## Proyek Utama
 
 | Project | Deskripsi |
 | --- | --- |
-| 📝 `dailyjurnal` | Jurnal harian dengan antarmuka bersih dan rapi |
-| 📈 `dailybtc` | Dashboard harga Bitcoin dengan visual data menarik |
-| 🔄 `updatejurnaldickho` | Versi baru fitur jurnal pribadi |
-| 📊 `Data_Mining_pertemuan_3` | Notebook data mining untuk analisis dan visualisasi |
-| 🖥️ `admin-ui` | Dashboard admin modern dengan desain profesional |
-| 🎓 `Simple-lms` | Platform pembelajaran online sederhana |
-| 🎨 `psd-mik` | Desain UI/UX berbasis layout PSD |
+| `dailyjurnal` | Jurnal harian dengan antarmuka bersih dan rapi |
+| `dailybtc` | Dashboard harga Bitcoin dengan visual data menarik |
+| `updatejurnaldickho` | Versi baru fitur jurnal pribadi |
+| `Data_Mining_pertemuan_3` | Notebook data mining untuk analisis dan visualisasi |
+| `admin-ui` | Dashboard admin modern dengan desain profesional |
+| `Simple-lms` | Platform pembelajaran online sederhana |
+| `psd-mik` | Desain UI/UX berbasis layout PSD |
 
 ## Skill & Teknologi
 
