@@ -27,7 +27,7 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DickhoSuryaManggala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DickhoSuryaManggala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=DickhoSuryaManggala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DickhoSuryaManggala&layout=compact&langs_count=5&theme=dark&locale=en&hide_border=false" height="150" alt="languages graph" />
 </div>
@@ -72,7 +72,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DickhoSuryaManggala&repo=github-readme-stats&theme=dark" alt="pinned repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DickhoSuryaManggala&repo=admin-ui&theme=dark" alt="pinned repo" />
 </div>
 
 ###
