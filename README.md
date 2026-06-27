@@ -14,7 +14,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hi! My name isDickho Surya Manggala</h1>
+<h1 data-importer="text" align="center">Hi! My name is Dickho Surya Manggala</h1>
 
 ###
 
