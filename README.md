@@ -74,6 +74,36 @@ I am a passionate **Web Developer** from Indonesia who loves building modern, re
 
 <br/>
 
+## Stats
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/stats-output/stats.svg" width="48%" alt="GitHub Stats"/>
+
+<img src="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/languages-output/languages.svg" width="48%" alt="Languages"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/pacman-output/puzzle-bobble-contribution-graph-dark.svg" alt="Pacman Contribution Graph"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## Connect With Me
 
 <div align="center">
