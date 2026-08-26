@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&reversal=false&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&animation=fadeIn&descSize=18&descAlign=50&descAlignY=58&color=0:1a1a2e,50:16213e,100:0f3460" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&reversal=false&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&animation=fadeIn&desc=Hi+there!+I'm+Dickho+Surya+Manggala&descSize=18&descAlign=50&descAlignY=58&color=0:1a1a2e,50:16213e,100:0f3460" width="100%"/>
 
 </div>
 
@@ -14,9 +14,9 @@
 
 # Hi there, I'm Dickho Surya Manggala
 
-### *Web Developer · UI/UX Enthusiast · Tech Explorer*
+### Web Developer · UI/UX Enthusiast · Tech Explorer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Membangun+Web+Modern+%26+Responsif;Eksplorasi+Teknologi+Terkini;Crafting+Digital+Experiences)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Membangun+Web+Modern+%26+Responsif;Eksplorasi+Teknologi+Terkini;Crafting+Digital+Experiences)
 
 </div>
 
@@ -26,26 +26,11 @@
 
 <img align="right" width="250" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="developer"/>
 
-```python
-class DickhoSuryaManggala:
-    def __init__(self):
-        self.role = "Web Developer"
-        self.location = "Indonesia"
-        self.languages = ["JavaScript", "TypeScript", "Python", "PHP"]
-        self.frameworks = ["React", "Node.js", "Next.js"]
-        self.interests = [
-            "Modern Web Development",
-            "UI/UX Design",
-            "Responsive Applications",
-            "Open Source"
-        ]
-
-    def current_focus(self):
-        return "Building impactful digital solutions"
-
-    def fun_fact(self):
-        return "I debug with console.log and proud of it"
-```
+- Role: **Web Developer**
+- Location: **Indonesia**
+- Languages: JavaScript, TypeScript, Python, PHP
+- Frameworks: React, Node.js, Next.js
+- Focus: Building impactful digital solutions
 
 ---
 
@@ -82,16 +67,6 @@ class DickhoSuryaManggala:
 <div align="center">
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DickhoSuryaManggala&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## Featured Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DickhoSuryaManggala&repo=&theme=radical&hide_border=false)](https://github.com/DickhoSuryaManggala?tab=repositories)
 
 </div>
 
