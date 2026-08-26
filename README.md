@@ -1,18 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&reversal=false&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&animation=fadeIn&descSize=18&descAlign=50&descAlignY=58&color=0:1a1a2e,50:16213e,100:0f3460" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&reversal=false&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&animation=fadeIn&descSize=18&descAlign=50&descAlignY=58&color=0:1a1a2e,50:16213e,100:0f3460" width="100%"/>
 
 </div>
-
-<br/>
 
 <div align="center">
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp6d2RhdndvNjNnd2h4NHN6enEzcTNocjc2ZTZ5NDV1ZW01endrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif" width="280" alt="coding animation"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp6d2RhdndvNjNnd2h4NHN6enEzcTNocjc2ZTZ5NDV1ZW01endrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif" width="280" alt="coding animation"/>
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -24,11 +20,7 @@
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ## About Me
 
@@ -55,37 +47,7 @@ class DickhoSuryaManggala:
         return "I debug with console.log and proud of it"
 ```
 
-<br/>
-
 ---
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DickhoSuryaManggala&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-
-  &nbsp;
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DickhoSuryaManggala&theme=radical&hide_border=false" alt="Streak Stats"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DickhoSuryaManggala&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 ## Tech Stack
 
@@ -103,41 +65,37 @@ class DickhoSuryaManggala:
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## Featured Projects
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/DickhoSuryaManggala?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DickhoSuryaManggala&theme=radical&hide_border=false" alt="Pinned Repos"/>
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DickhoSuryaManggala&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+
+&nbsp;
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DickhoSuryaManggala&theme=radical&hide_border=false" alt="Streak Stats"/>
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-## Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DickhoSuryaManggala&theme=redical&hide_border=false&area=true" width="95%" alt="Activity Graph"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DickhoSuryaManggala&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## Featured Repositories
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DickhoSuryaManggala&repo=&theme=radical&hide_border=false)](https://github.com/DickhoSuryaManggala?tab=repositories)
+
+</div>
+
+---
 
 ## Connect With Me
 
@@ -151,17 +109,11 @@ class DickhoSuryaManggala:
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&color=0:1a1a2e,50:16213e,100:0f3460" width="100%"/>
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DickhoSuryaManggala&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS)
 
