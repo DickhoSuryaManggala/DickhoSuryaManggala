@@ -23,14 +23,13 @@
 </div>
 
 <br/>
+<br/>
 
 ---
 
 <br/>
 
 ## About Me
-
-<img align="right" width="280" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="developer"/>
 
 I am a passionate **Web Developer** from Indonesia who loves building modern, responsive, and user-friendly applications. I combine clean code with thoughtful design to create digital experiences that truly matter.
 
@@ -66,42 +65,6 @@ I am a passionate **Web Developer** from Indonesia who loves building modern, re
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DickhoSuryaManggala&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DickhoSuryaManggala&theme=tokyonight&hide_border=false" width="48%" alt="Streak Stats"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DickhoSuryaManggala&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="60%" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DickhoSuryaManggala/DickhoSuryaManggala/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 </div>
 
